@@ -1,0 +1,19 @@
+.navbar {
+  background: #43a047;
+  padding: 20px;
+  color: white;
+}
+
+.active {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: black;
+}
+
